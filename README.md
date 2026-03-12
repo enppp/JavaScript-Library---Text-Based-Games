@@ -11,7 +11,7 @@ All I ask is that you credit me either in a credit portion of the game or in the
 
 I am also planning to make another library for simple website code that will spice up bland websites.
 
-I write these myself and sometimes it takes time to go through and troubleshoot the JavaScript files. So a simple credit will do as a thanks.
+I write these myself and sometimes it takes time to go through and troubleshoot the JavaScript files. So a simple credit will do as a thanks!
 <br>
 <br>
 I am planning to create a **KoFi** for people that want to support what I do.
